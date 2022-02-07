@@ -1,1 +1,14 @@
+{
+  "name": "scss-magic",
+  "version": "1.0.0",
+  "description": "Quick Code Snippets",
 
+  "author": "Sandeep Upadhyay",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandeepcodework/scss-magic.git"
+  },
+  "homepage": "",
+  "keywords": []
+}
